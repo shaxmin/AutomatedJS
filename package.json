@@ -1,0 +1,19 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "NodeJS practical task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaxmin/AutomatedJS.git"
+  },
+  "author": "Bakzhan Shakhmin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaxmin/AutomatedJS/issues"
+  },
+  "homepage": "https://github.com/shaxmin/AutomatedJS#readme"
+}
